@@ -1,0 +1,23 @@
+<Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Count>2</Count>
+  <Message>Response returned successfully</Message>
+  <SearchCriteria>Make ID: 440</SearchCriteria>
+  <Results>
+    <VehicleTypesForMakeIds>
+      <VehicleTypeId>3</VehicleTypeId>
+      <VehicleTypeName>Passenger Truck</VehicleTypeName>
+    </VehicleTypesForMakeIds>
+    <VehicleTypesForMakeIds>
+      <VehicleTypeId>8</VehicleTypeId>
+      <VehicleTypeName>Multipurpose Passenger Motorcicle (MPM)</VehicleTypeName>
+    </VehicleTypesForMakeIds>
+    <VehicleTypesForMakeIds>
+      <VehicleTypeId>1</VehicleTypeId>
+      <VehicleTypeName>Multipurpose Passenger Jeep (MPJ)</VehicleTypeName>
+    </VehicleTypesForMakeIds>
+    <VehicleTypesForMakeIds>
+      <VehicleTypeId>9</VehicleTypeId>
+      <VehicleTypeName>Car</VehicleTypeName>
+    </VehicleTypesForMakeIds>
+  </Results>
+</Response>
